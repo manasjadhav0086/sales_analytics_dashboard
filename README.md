@@ -39,7 +39,7 @@ Welcome to the **Sales Analytics Dashboard**, an interactive Streamlit-based web
 
 4. **Run the Dashboard**
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 5. **Access the Dashboard**
